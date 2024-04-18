@@ -40,8 +40,7 @@ Special thanks to Stanford University and Deeplearning.AI for offering this comp
 
 For any inquiries or assistance related to this repository, feel free to reach out to the repository owner.
 
-**Author:** [Fatahillah]
-**Contact:** [adjikp76@gmail.com]
-**License:** [MIT License]
+**Author:** Fatahillah
+**Contact:** adjikp76@gmail.com
 
 **Disclaimer:** This repository is intended for educational purposes only. The code provided herein may require modifications or additional optimizations for deployment in production environments.
